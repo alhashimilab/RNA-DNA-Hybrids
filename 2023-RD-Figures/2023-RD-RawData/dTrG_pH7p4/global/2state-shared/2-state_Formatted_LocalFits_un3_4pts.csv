@@ -1,0 +1,8 @@
+Fit #1
+un3_4pts Pars,Fit Value,Error
+pB (%),0.083,0.002
+dwB (ppm),25.71,0.75
+kexAB (s^-1),7248,516
+R1 (s^-1),2.34,0.05
+R2 (s^-1),5.35,0.18
+Red. Chi-sq,0.58
