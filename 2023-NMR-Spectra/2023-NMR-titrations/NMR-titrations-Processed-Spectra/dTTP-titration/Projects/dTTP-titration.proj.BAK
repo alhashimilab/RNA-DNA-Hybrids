@@ -1,0 +1,21 @@
+<sparky project file>
+<version 3.190>
+<savefiles>
+../Save/dTTP_CON_pH_6p8_sw1_20.save
+<end savefiles>
+<options>
+<end options>
+<overlays>
+<end overlays>
+<attached data>
+<end attached data>
+<molecule>
+name 
+<attached data>
+<end attached data>
+<condition>
+name 
+<resonances>
+<end resonances>
+<end condition>
+<end molecule>
