@@ -1,0 +1,135 @@
+<sparky save file>
+<version 3.190>
+<user>
+set mode 10
+set saveprompt 1
+set disregardborders 1
+set saveinterval 0
+set resizeViews 0
+set keytimeout 3000
+set cachesize 32
+set contourgraying 1
+default print command lpr
+default print options 2 25 1.000000 1.000000
+<end user>
+<spectrum>
+name rUTP_CON_pH_11p8_sw1_50
+pathname ../Save/rUTP_CON_pH_11p8_sw1_50.ucsf
+abspathname /Users/orsula1/OrsDocs/OrsDocs_since_Jan2023/2023-RNA-DNA-Hybrid/2023-New-Hybrid-Samples-rU-vs-dT/rUTP-vs-dTTP/rUTP-dTTP-Spectra-Plots/202303-titration/Save/rUTP_CON_pH_11p8_sw1_50.ucsf
+dimension 2
+shift 0.000000 0.000000
+points 1024 1024
+assignMultiAxisGuess 3
+assignGuessThreshold 0.000000
+assignRelation 1 1 
+assignRelation 2 1 
+assignRange 1 0.000000
+assignRange 2 0.000000
+assignFormat %a1-%a2
+listTool sortBy label
+listTool nameType assignment
+listTool sortAxis w1
+listTool showFlags frequency
+integrate.overlapped_sep 300.000 120.000
+integrate.methods 1 0 1
+integrate.allow_motion 1
+integrate.adjust_linewidths 1
+integrate.motion_range 0.100 0.040
+integrate.min_linewidth 0.0247 0.0099
+integrate.max_linewidth 2.4661 0.9938
+integrate.fit_baseline 0
+integrate.subtract_peaks 0
+integrate.contoured_data 1
+integrate.rectangle_data 0
+integrate.maxiterations 10000
+integrate.tolerance 0.001000
+integrate.pseudo_voigt_mixing 0.500000
+peak.pick 0.000000 0.000000 0.000000 0.000000 0
+peak.pick-minimum-linewidth 0.000000 0.000000
+peak.pick-minimum-dropoff 0.00
+noise.sigma 43158.742188
+ornament.label.size 2.047924
+ornament.line.size 0.000000
+ornament.peak.size 1.433547
+ornament.grid.size 0.400000
+ornament.peakgroup.size 0.798690
+ornament.selectsize 0.500000
+ornament.pointersize 0.500000
+ornament.lineendsize 0.500000
+<attached data>
+<end attached data>
+<view>
+name rUTP_CON_pH_11p8_sw1_50
+precision 0
+precision_by_units 0 0 0
+viewmode 0
+show 1 label line peak grid peakgroup
+axistype 2
+flags crosshair crosshair2 curpos
+contour.pos 24 600000 1.200000 0.000000 burlywood4
+contour.neg 14 -600000 1.400000 0.000000 green
+<params>
+orientation 1 0
+location 100 100
+size 500 500
+offset 411.770726 300.829567
+scale 1.000000 1.252208
+zoom 11.523308
+flags 0
+<end params>
+<params>
+orientation 1 0
+location 100 100
+size 500 500
+offset 411.770726 300.829567
+scale 1.000000 1.252208
+zoom 11.523308
+flags 0
+<end params>
+<params>
+orientation 1 0
+location 100 100
+size 500 500
+offset 411.770726 300.829567
+scale 1.000000 1.252208
+zoom 11.523308
+flags 0
+<end params>
+<end view>
+<ornament>
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 1
+pos 168.604 153.353
+height 0.000 3970316.250
+rs |11p8|N3| |11p8|C2|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 168.604 153.353
+label 11p8N3-C2
+xy 168.604,153.213 153.353,168.254
+]
+type peak
+color 0 2 0 white
+flags 0 0 0 0
+id 2
+pos 168.602 168.306
+height 0.000 232528.750
+rs |11p8|N3| |11p8|C4|
+[
+type label
+color 2 0 0 white
+flags 0 0 0 1
+mode 2
+pos 168.602 168.306
+label 11p8N3-C4
+xy 168.602,168.166 168.347,167.972
+]
+<end ornament>
+<meta data>
+<end meta data>
+<end spectrum>

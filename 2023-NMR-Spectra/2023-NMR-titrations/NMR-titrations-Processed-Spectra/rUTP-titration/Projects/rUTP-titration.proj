@@ -1,0 +1,110 @@
+<sparky project file>
+<version 3.190>
+<savefiles>
+../Save/rUTP_CON_pH_6p8_sw1_20.save
+../Save/rUTP_CON_pH_7p4_sw1_20.save
+../Save/rUTP_CON_pH_8p4_sw1_20.save
+../Save/rUTP_CON_pH_9p0_sw1_20.save
+../Save/rUTP_CON_pH_9p4_sw1_20.save
+../Save/rUTP_CON_pH_9p8_sw1_20.save
+../Save/rUTP_CON_pH_10p2_sw1_20.save
+../Save/rUTP_CON_pH_10p4_sw1_20.save
+../Save/rUTP_CON_pH_10p8_sw1_50.save
+../Save/rUTP_CON_pH_11p2_sw1_50.save
+../Save/rUTP_CON_pH_11p6_sw1_50.save
+../Save/rUTP_CON_pH_12p2_sw1_80.save
+../Save/rUTP_CON_pH_12p4_sw1_80.save
+../Save/rUTP_CON_pH_12p6_sw1_80.save
+../Save/rUTP_CON_pH_12p0_sw1_80.save
+../Save/rUTP_CON_pH_11p8_sw1_50.save
+../Save/rUTP_CON_pH_11p4_sw1_50.save
+../Save/rUTP_CON_pH_13p5_sw1_80.save
+../Save/rUTP_CON_pH_14p0_sw1_80.save
+<end savefiles>
+<options>
+<end options>
+<overlays>
+overlay rUTP_CON_pH_13p5_sw1_80 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_12p6_sw1_80 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_12p4_sw1_80 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_12p2_sw1_80 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_12p0_sw1_80 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_11p8_sw1_50 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_11p6_sw1_50 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_11p4_sw1_50 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_11p2_sw1_50 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_10p8_sw1_50 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_10p4_sw1_20 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_10p2_sw1_20 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_9p8_sw1_20 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_9p4_sw1_20 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_9p0_sw1_20 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_8p4_sw1_20 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_7p4_sw1_20 rUTP_CON_pH_14p0_sw1_80
+overlay rUTP_CON_pH_6p8_sw1_20 rUTP_CON_pH_14p0_sw1_80
+<end overlays>
+<attached data>
+<end attached data>
+<molecule>
+name 
+<attached data>
+<end attached data>
+<condition>
+name 
+<resonances>
+|6p8|C2|     151.896      13C
+|6p8|C4|     166.321      13C
+|6p8|N3|     158.272      15N
+|7p4|C2|     151.921      13C
+|7p4|C4|     166.362      13C
+|7p4|N3|     158.439      15N
+|8p4|C2|     152.014      13C
+|8p4|C4|     166.493      13C
+|8p4|N3|     159.108      15N
+|9p0|C2|     152.064      13C
+|9p0|C4|     166.536      13C
+|9p0|N3|     159.417      15N
+|9p4|C4|     166.558      13C
+|9p4|N3|     159.511      15N
+|9p8|C2|     152.087      13C
+|9p8|C4|     166.581      13C
+|9p8|N3|     159.622      15N
+|10p2|C2|    152.107      13C
+|10p2|C4|    166.625      13C
+|10p2|N3|    159.776      15N
+|10p4|C2|    152.126      13C
+|10p4|C4|    166.624      13C
+|10p4|N3|    159.902      15N
+|10p8|C2|    152.199      13C
+|10p8|C4|    166.738      13C
+|10p8|N3|    160.436      15N
+|11p2|C2|    152.488      13C
+|11p2|C4|    167.126      13C
+|11p2|N3|    162.474      15N
+|11p4|C2|    152.579      13C
+|11p4|C4|    167.238      13C
+|11p4|N3|    163.108      15N
+|11p6|C2|    152.929      13C
+|11p6|C4|    167.727      13C
+|11p6|N3|    165.592      15N
+|11p8|C2|    153.353      13C
+|11p8|C4|    168.306      13C
+|11p8|N3|    168.603      15N
+|12p0|C2|    154.018      13C
+|12p0|C4|    169.216      13C
+|12p0|N3|    173.325      15N
+|12p2|C4|    172.211      13C
+|12p2|N3|    189.008      15N
+|12p4|C4|    174.69       13C
+|12p4|N3|    201.973      15N
+|12p6|C2|    159.479      13C
+|12p6|C4|    176.608      13C
+|12p6|N3|    211.962      15N
+|13p5|C2|    159.792      13C
+|13p5|C4|    176.957      13C
+|13p5|N3|    213.928      15N
+|14p0|C4|    176.926      13C
+|14p0|N3|    213.92       15N
+<end resonances>
+<end condition>
+<end molecule>
